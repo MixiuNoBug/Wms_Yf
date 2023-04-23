@@ -5,5 +5,5 @@ package com.spbovu.xingyumeng.model;
  * @date 2023/4/22 14:32
  * @Description：
  */
-public class UserInsertInputDto {
+public class UserINFOInputDTO {
 }
